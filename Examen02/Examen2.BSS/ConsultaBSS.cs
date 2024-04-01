@@ -56,5 +56,9 @@ namespace Examen2.BSS
         {
             return c9.Consulta9();
         }
+        public DataTable Consulta10BSS()
+        {
+            return c10.Consulta10();
+        }
     }
 }

@@ -11,7 +11,7 @@ namespace Examen2.VISTA
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new ConsultaVista.Consulta9Vista());
+            Application.Run(new ConsultaVista.Consulta10Vista());
         }
     }
 }
